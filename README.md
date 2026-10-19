@@ -1,5 +1,7 @@
 # Modern RAG in Practice
 
+[![GitHub stars](https://img.shields.io/github/stars/theaisocietyasu/agents-rag-from-scratch?style=social)](https://github.com/theaisocietyasu/agents-rag-from-scratch/stargazers) [![GitHub forks](https://img.shields.io/github/forks/theaisocietyasu/agents-rag-from-scratch?style=social)](https://github.com/theaisocietyasu/agents-rag-from-scratch/forks)
+
 Build a RAG assistant, see how it works, and race for the best score, all in one
 small web app.
 
